@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sansita swashed;
+}
+
+h1 {
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  font-family: Sacramento;
+}
+
+
+
+
+hr{
+
+  border: dotted #1a1c20 10px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 100px auto;
+
+}
+
+h2 {
+  font-size: 50px;
+  color: #1a1c20;
+  padding-bottom: 20px;
+}
+
+h3 {
+  font-size: 35px;
+  color: #1a1c20;
+}
+
+p {
+  font-size: 30px;
+  font-family: serif;
+}
+
+.top-container {
+  background-color: #3d7ea6;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  background-color: #ffbb91;
+  padding-top: 60px;
+  padding-bottom: 100px;
+}
+
+.bottom-container {
+  background-color: #3d7ea6;
+  margin: 100px auto 100px auto;
+}
+
+
+a{color: black;
+
+  font-family: Montserrat, sans-serif;
+  margin: 10px 20px;
+  size: 1.75rem;
+  ;
+
+}
+.underline {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: relative;
+  margin-left: 500px;
+}
+
+.chinatown {
+  border-radius: 30px;
+  height: 250px;
+  width: 250px;
+}
+
+.mountain {
+  padding-bottom: 0
+}
+
+
+.skill-row {
+
+  width: 50%;
+text-align: center ;
+  margin: 100px auto 100px auto;
+line-height:  2;
+
+}
+
+.websdesign { width: 250px;
+height: 250px;
+border-radius: 30px;
+
+}
+
+.contact-message {
+
+margin: 100 auto 40 auto;
+
+}
+
+.organization {
+border-radius: 30px;
+height: 250px;
+width: 250px;
+
+
+}
+
+.contact-line {
+  padding-bottom: 100px;
+
+}
+.btn {
+
+  margin-top: 100px;
+  background: #00cfd6;
+  background-image: -webkit-linear-gradient(top, #00cfd6, #10a8ad);
+  background-image: -moz-linear-gradient(top, #00cfd6, #10a8ad);
+  background-image: -ms-linear-gradient(top, #00cfd6, #10a8ad);
+  background-image: -o-linear-gradient(top, #00cfd6, #10a8ad);
+  background-image: linear-gradient(to bottom, #00cfd6, #10a8ad);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 20px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.contact-line {
+
+
+padding-bottom: 50px;
+}
+
+.contact-me { padding: 100px auto 100px auto;}
